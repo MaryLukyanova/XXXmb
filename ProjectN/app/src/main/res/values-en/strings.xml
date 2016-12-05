@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Guess the number!</string>
+    <string name="behind">Short!</string>
+    <string name="ahead">Over!</string>
+    <string name="hit"><b>At Point!</b></string>
+    <string name="input_value">Enter value</string>
+    <string name="play_more">Play again</string>
+    <string name="try_to_guess"><b>Try to guess the number (1 &#8211; 100)</b></string>
+    <string name="error">Incorrect input!</string>
+    <string name="try_to_enter">Try to ENTER the number (1 &#8211; 100)</string>
+    <string name="bad_number">The number does not satisfy the conditions: (1 &#8211; 100)</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="behind">Недолет!</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit"><b>В точку!</b></string>
+    <string name="input_value">Ввести значение</string>
+    <string name="play_more">Сыграть ещё</string>
+    <string name="try_to_guess"><b>Попробуйте угадать число (1 &#8211; 100)</b></string>
+    <string name="error">Неверный ввод!</string>
+    <string name="try_to_enter">Попробуйте ввести число (1 &#8211; 100)</string>
+    <string name="bad_number">Число не удовлетворяет условиям: (1 &#8211; 100)</string>
+</resources>
