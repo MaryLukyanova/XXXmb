@@ -9,5 +9,6 @@
     <string name="red">Красный</string>
     <string name="yellow">Жёлтый</string>
     <string name="green">Зелёный</string>
+    <string name="image">Изображение</string>
 
 </resources>

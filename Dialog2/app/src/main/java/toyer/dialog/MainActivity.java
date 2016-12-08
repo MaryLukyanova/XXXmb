@@ -29,7 +29,7 @@ public class MainActivity extends Activity implements OnClickListener {
     @Override
     public void onClick(View v) {
         final CharSequence[] items = {getText(R.string.red) ,
-                getText(R.string.yellow),getText(R.string.green)
+                getText(R.string.yellow),getText(R.string.green), getText(R.string.image)
         };
 
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
@@ -48,6 +48,10 @@ public class MainActivity extends Activity implements OnClickListener {
                     case 2:
                     {relativeLayout.setBackgroundResource(R.color.greenColor);
                         Toast.makeText(context, R.string.green, Toast.LENGTH_LONG).show();
+                        break;}
+                    case 3:
+                    {relativeLayout.setBackgroundResource(R.drawable.fon);
+                        Toast.makeText(context, R.string.image, Toast.LENGTH_LONG).show();
                         break;}
                 }
             }
